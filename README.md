@@ -16,6 +16,3 @@ In this work, the **anomalous class** is represented by the label `-1` (indicati
 #### Visualizations:
 This repository includes a series of graphs comparing the performance of different models and metrics for both unsupervised and supervised learning approaches, showcasing how each method handles imbalanced data and anomaly detection.
 
----
-
-This version specifies which tables in the PaPoC 2025 paper correspond to the different folders, clarifying the connection between your repository and the paper's content.
